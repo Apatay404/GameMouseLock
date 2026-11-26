@@ -1,8 +1,14 @@
-# GameMouseLock
+<h1 align="center">GameMouseLock</h1>
 
-Keep your gaming mouse on the display where your game is running. GameMouseLock detects the game window, confines the selected mouse to that display, and releases it when you Command-Tab away. The built-in game profile targets League of Legends matches, including PBE. Use **Choose game** for other games.
+<p align="center">
+  Keep your gaming mouse on the display where your game is running. GameMouseLock detects the game window, confines the selected mouse to that display, and releases it when you Command-Tab away. The built-in game profile targets League of Legends matches, including PBE. Use <strong>Choose game</strong> for other games.
+</p>
 
-<img width="682" height="644" alt="Screenshot 2026-11-25 at 19 26 43" src="https://github.com/user-attachments/assets/fabb59b4-82de-4961-8643-8ba7913f6536" />
+
+<p align="center">
+  <img width="572" height="532" alt="GameMouseLock app screenshot" src="https://github.com/user-attachments/assets/55399ab3-602d-4836-a1bf-391826ee4a74" />
+</p>
+
 
 ## Build and run
 
