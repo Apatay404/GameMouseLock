@@ -2,6 +2,8 @@
 
 Keep your gaming mouse on the display where your game is running. GameMouseLock detects the game window, confines the selected mouse to that display, and releases it when you Command-Tab away. The built-in game profile targets League of Legends matches, including PBE. Use **Choose game** for other games.
 
+<img width="682" height="644" alt="Screenshot 2026-11-25 at 19 26 43" src="https://github.com/user-attachments/assets/fabb59b4-82de-4961-8643-8ba7913f6536" />
+
 ## Build and run
 
 1. On a Mac with Xcode installed, clone or download this repository and open **GameMouseLock.xcodeproj**.
